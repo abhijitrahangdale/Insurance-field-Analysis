@@ -107,7 +107,13 @@ The dashboard's "Home" page offers a summary of all report sections:
 📊 Daily Revenue Growth – ₹13M
 
 Sales View:-
-![Shield insurance Analysis_page-0002](https://github.com/user-attachments/assets/f4242b6d-af98-41f5-84ce-53415d45fafe)
+![Shield insurance Analysis_page-0003](https://github.com/user-attachments/assets/58b21402-f18b-4d0d-bf2a-146804429b16)
+
+
+Gerenal View:-
+![Shield insurance Analysis_page-0002](https://github.com/user-attachments/assets/244e6f87-2475-47d8-898c-077ad391de37)
+
+
 
 🤝 Customer Acquisition by Sales Mode
 👥 The highest number of customers were acquired through Offline Agent mode.
