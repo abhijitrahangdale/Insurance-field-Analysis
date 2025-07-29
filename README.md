@@ -87,9 +87,7 @@
 #### 👴 65+
 
 ## Dashboard
-
-![1747417047119_page-0001](https://github.com/user-attachments/assets/2ce2e34a-37cf-4d62-a1ec-82559b8c16c2)
-
+![1747417047119_page-0001](https://github.com/user-attachments/assets/e7031347-abd2-4c09-8ee7-b6913f3191e4)
 
 ## 🏠 Home
 #### The dashboard's "Home" page offers a summary of all report sections:
@@ -107,12 +105,12 @@
 #### 📊 Daily Revenue Growth – ₹13M
 
 ## Sales View:-
-![Shield insurance Analysis_page-0003](https://github.com/user-attachments/assets/58b21402-f18b-4d0d-bf2a-146804429b16)
+![1747417047119_page-0002](https://github.com/user-attachments/assets/2b1bd83e-45f6-4b9f-8023-dba2b799ed62)
+
 
 
 ## Gerenal View:-
-![Shield insurance Analysis_page-0002](https://github.com/user-attachments/assets/244e6f87-2475-47d8-898c-077ad391de37)
-
+![1747417047119_page-0003](https://github.com/user-attachments/assets/5ef037a6-e635-40f0-9a4a-e5ed64960390)
 
 
 ## 🤝 Customer Acquisition by Sales Mode
@@ -126,5 +124,6 @@
 
 ### Customers divided in the Age Groups.
 
+![1747417047119_page-0004](https://github.com/user-attachments/assets/13062651-b672-43da-87db-3c92a02367eb)
 
 
