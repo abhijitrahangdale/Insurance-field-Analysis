@@ -88,7 +88,8 @@
 
 ## Dashboard
 
-![Shield insurance Analysis_page-0001](https://github.com/user-attachments/assets/8508c297-520e-48f7-bec9-fde745efd7a3)
+![1747417047119_page-0001](https://github.com/user-attachments/assets/2ce2e34a-37cf-4d62-a1ec-82559b8c16c2)
+
 
 ## 🏠 Home
 #### The dashboard's "Home" page offers a summary of all report sections:
