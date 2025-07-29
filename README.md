@@ -120,10 +120,10 @@
 #### 📈 The largest contribution to revenue generation also comes from the Offline Agent channel.
 
 ## Age View:-
-![Shield insurance Analysis_page-0004](https://github.com/user-attachments/assets/b06d3497-0bca-4b8a-969f-ef27f4642a09)
+![1747417047119_page-0004](https://github.com/user-attachments/assets/13062651-b672-43da-87db-3c92a02367eb)
 
 ### Customers divided in the Age Groups.
 
-![1747417047119_page-0004](https://github.com/user-attachments/assets/13062651-b672-43da-87db-3c92a02367eb)
+
 
 
