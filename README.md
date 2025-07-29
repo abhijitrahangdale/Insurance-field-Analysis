@@ -52,18 +52,18 @@
 - Creating and sharing Power BI Apps 
 - Managing workspaces, collaboration, and access permissions
 
-💼 Business-Related Terms
-📊 DCG – Daily Customer Growth 
-📈 DRGR – Daily Revenue Growth 
-💰 Revenue – Total earnings generated from policies
-🤝 Settlement – Amount agreed upon to be paid out under an insurance claim
+## 💼 Business-Related Terms
+#### 📊 DCG – Daily Customer Growth 
+#### 📈 DRGR – Daily Revenue Growth 
+#### 💰 Revenue – Total earnings generated from policies
+#### 🤝 Settlement – Amount agreed upon to be paid out under an insurance claim
 
-🏢 Company Background
+## 🏢 Company Background
 
-Shield Insurance operates in 5 major cities across India:  
-📍 Chennai  
-📍 Delhi  
-📍 Hyderabad 
+### Shield Insurance operates in 5 major cities across India:  
+#### 📍 Chennai  
+#### 📍 Delhi  
+📍 Hydr1abad  
 📍 Indore  
 📍 Mumbai
 
@@ -125,6 +125,6 @@ Age View:-
 ![Shield insurance Analysis_page-0004](https://github.com/user-attachments/assets/b06d3497-0bca-4b8a-969f-ef27f4642a09)
 
 -Customers divided in the Age Groups.
-...........................................................
+
 
 
